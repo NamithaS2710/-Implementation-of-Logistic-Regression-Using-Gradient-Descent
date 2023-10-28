@@ -126,15 +126,25 @@ np.mean(predict(res.x,X) == y)
 ```
 
 ## Output:
+1. Array of X
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/d260a968-a735-47b4-bc96-d6e89d8871c9)
+2. Array of Y
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/b1479873-df99-4455-b681-cca43ea01fd7)
+3. Score Graph
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/d9448930-e9b1-4631-8637-5dff0efb3226)
+4. Sigmoidal function graph
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/94619aee-a18e-408b-86ae-25946c211611)
+5. X train grad value
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/172cd317-214f-4424-b825-9b12c2b5a788)
+6. Y train grad value
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/48a715d9-13cf-4488-b3f8-1ff31bc39922)
+7. Print res.x
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/2f10e7cf-f9f6-4fed-a01f-08e9cb1d931a)
+8. Decision boundary - graph for exam score
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/4d7d3565-a720-40fc-af68-0e3958c2960c)
+9. Probability value
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/b5577a99-a746-49ad-988d-1bc85f68f0ea)
+10. Prediction value of mean
 ![image](https://github.com/NamithaS2710/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/133190822/468fa6d1-1a18-4001-9a01-c9d64e70c852)
 
 
